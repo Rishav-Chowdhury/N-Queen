@@ -15,16 +15,13 @@ st. sidebar.markdown("#####    ")
 st.sidebar.markdown("#### This Web Application takes the number of queens as an input on the slider and computes the solutions by *Backtracking* and uses *PyPlot* to display the unique solutions visually.")
 st.sidebar.markdown("# ")
 st.sidebar.markdown("# ")
-st.sidebar.markdown("# ")
 st.sidebar.markdown("## About the Author:")
-st.sidebar.markdown("#### I am a Full Stack Developer, proficient in several frameworks like React, Node, Angular and Vue. I specialize in designing Websites and Web Applications with interactive UI. I am also a ML novice and have programmed a handful of models for various Med-Tech Hackathons. ")
+st.sidebar.markdown("#### I am a Full Stack Developer, proficient in several frameworks like React, Node, Angular and Vue. I specialize in designing Websites and Web Apps with interactive UI. I am a ML novice and have programmed a handful of models for various Med-Tech Hackathons.")
 link1 = '[My Portfolio](https://rishav-chowdhury.github.io/)'
 link2 = '[My GitHub](https://github.com/Rishav-Chowdhury)'
-link3 = '[My Instagram](https://www.instagram.com/antisocial._.extrovert/)'
 st.sidebar.markdown("# ")
 st.sidebar.markdown(link1, unsafe_allow_html=True)
 st.sidebar.markdown(link2, unsafe_allow_html=True)
-st.sidebar.markdown(link3, unsafe_allow_html=True)
 
 #Introducion
 st.title("N-Queen Problem")
