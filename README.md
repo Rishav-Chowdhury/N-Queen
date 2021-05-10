@@ -5,7 +5,7 @@ It was created using Streamlit, which is a unique Python package for creating an
 Link to the Web Application:
 [N-Queen on Heroku](https://n-queen-web-app.herokuapp.com/)
 
-##Update:
+## Update:
 I deployed the Web Application using Streamlit Sharing and it was so user-friendly.
 
 Link to the Application on Streamlit:
